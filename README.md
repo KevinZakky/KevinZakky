@@ -1,8 +1,7 @@
-![logo](https://github.com/KevinZakky/KevinZakky/blob/22490d35d84fbf4d016ff190a9375f9744455472/profile.png)
 <h1 align="center">Hi 👋, I'm Ahmad Kevin Adhira Zakki</h1>
 <h3 align="center">A passionate Mobile Developer from Indonesia</h3>
 
-<img align="right" alt="coding" width="400" src="https://c.tenor.com/yp_aFUgHMx8AAAAM/nakanoart-nakanodrawing.gif">
+<img align="right" alt="coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/2102675044426446272/22E6DF3A90BD6CDBB70D4BEF90BEF6D80108EC22/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinzakky&label=Profile%20views&color=0e75b6&style=flat" alt="kevinzakky" /> </p>
 
