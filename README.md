@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Customer App**
 
-- 🌱 I’m currently learning **Kotlin, Dart, Flutter, Jetpack Compose**
+- 🌱 I’m currently learning **Kotlin**
 
 - 💬 Ask me about **Kotlin**
 
