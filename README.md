@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinzakky&label=Profile%20views&color=0e75b6&style=flat" alt="kevinzakky" /> </p>
 
-- 🔭 I’m currently working on **Customer App**
+- 🔭 I’m currently working on **Binar Car Rental Exercise Project**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **Kotlin**
+- 💬 Ask me about **My Repository**
 
 - 📫 How to reach me **kevinzakky9@gmail.com**
 
