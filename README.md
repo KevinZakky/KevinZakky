@@ -7,7 +7,7 @@
 - 📫 How to reach me **kevinzakky9@gmail.com**
 - ⚡ Fun fact **I'm alive**
 
-<div> <a href="https://www.linkedin.com/in/Ahmad Kevin Adhira Zakki" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div> <a href="https://www.linkedin.com/in/ahmad-kevin-adhira-zakki-72a575279?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYUuBroquSvicAJGmJsRIQA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/KevinZakky" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/kevinzakky_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:kevinzakky9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
