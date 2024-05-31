@@ -1,15 +1,12 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Kevin Zakky</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KevinZakky&label=Profile%20views&color=0e75b6&style=flat" alt="KevinZakky" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KevinZakky&theme=" alt="KevinZakky" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript, React JS, Express JS**
 - 💬 Ask me about **My Project**
 - 📫 How to reach me **kevinzakky9@gmail.com**
 - ⚡ Fun fact **I'm alive**
 
-<div> <a href="https://www.linkedin.com/in/Ahmad Kevin Adhira Zakki" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div> <a href="https://www.linkedin.com/in/ahmad-kevin-adhira-zakki-72a575279/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/KevinZakky" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/kevinzakky_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:kevinzakky9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
