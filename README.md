@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kevin Zakky</h1>
 
-- 🌱 I’m currently learning **Javascript, React JS, Express JS**
+- 🌱 I’m currently learning **Flutter**
 - 💬 Ask me about **My Project**
 - 📫 How to reach me **kevinzakky9@gmail.com**
 - ⚡ Fun fact **I'm alive**
