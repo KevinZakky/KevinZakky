@@ -4,14 +4,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KevinZakky&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=KevinZakky&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinZakky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/9nqvvu"  />
-
+<div style="width:439px;max-width:100%;"><div style="height:0;padding-bottom:109.34%;position:relative;"><iframe width="439" height="480" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/9nqvvu"></iframe></div><p><a href="https://imgflip.com/gif/9nqvvu">via Imgflip</a></p></div>
 ###
 
 <div align="left">
